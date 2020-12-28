@@ -1,0 +1,5 @@
+Exercício 1: Qual é a função da memória secundária em um computador?
+a) Executar toda computação e lógica do programa
+b) Recuperar páginas de web através da internet
+c) Armazenar informações para o longo prazo,mesmo além de um ciclo de energia
+d) Tomar a entrada do usuário
